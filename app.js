@@ -1,4 +1,4 @@
-const link = encodeURI('https://openjavascript.info');
+const link = encodeURI('https://cvofarupsaha.netlify.app/');
 const msg = encodeURIComponent("Hi, everyone");
 const title = encodeURIComponent(document.querySelector('title').textContent);
 
